@@ -1,0 +1,11 @@
+.pics{
+    display: flex;
+    list-style: none;
+    margin-top: 50px;
+    padding: 0;
+    margin-left: 70px;
+}
+.img1{
+    height: 175px;
+    margin-right: 20px;
+}

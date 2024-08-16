@@ -1,0 +1,17 @@
+.mainul{
+    margin-right: 140px;
+    list-style: none;  
+}
+.maindiv{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.img{
+    height: 120px;
+    margin-right: 20px;
+}
+.items{
+    display: flex;
+    margin-top: 30px;
+}

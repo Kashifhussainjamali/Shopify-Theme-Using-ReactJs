@@ -1,0 +1,47 @@
+.ul1{
+    display: flex;
+    list-style: none;
+    background-color: rgba(248,248,248,255);
+}
+.li1{
+    margin-right: 237px;
+    margin-top: 150px;
+    margin-left: 50px;
+    /* transform: scale(1); */
+    animation-name: kashif;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+    animation-delay: 0s;
+}
+@keyframes kashif{
+            
+            0%{transform: scale(0.5);}
+            100%{transform: scale(1);}
+}
+
+.li2{
+    /* transform: scale(1); */
+    animation-name: kashif1;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+    animation-delay: 0s;
+}
+@keyframes kashif1{
+            
+        0%{transform: scale(0.5);}
+        100%{transform: scale(1);}
+}
+
+.btn{
+    width: 150px;
+    border: none;
+    color: white;
+    background-color: #ff5252;
+    height: 40px;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-top: 20px;
+
+}

@@ -1,0 +1,25 @@
+.ul1{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.img1:hover{
+    animation-name: kashif1;
+    animation-duration: 0.2s;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+    animation-delay: 0s;
+    border-radius: 50px;
+}
+@keyframes kashif1{
+            
+        0%{transform: scale(1);}
+        20%{transform: scale(0.5);}
+        40%{transform: scale(1);}
+        80%{transform: scale(0.9);}
+        100%{transform: scale(0.9);}
+}
+
