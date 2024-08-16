@@ -1,8 +1,8 @@
-# React + Vite
+# Descreption
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"I have developed a responsive Shopify theme using React JS, ensuring seamless adaptability across devices.
+The design focuses on providing a smooth and user-friendly experience.
+This theme optimizes both performance and aesthetics for e-commerce platforms."
 
-Currently, two official plugins are available:
+https://github.com/user-attachments/assets/dde54b72-20c9-4b80-8233-8516e19fb6c7
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
